@@ -2,7 +2,7 @@
 
 This repository provides the database and code for reproducing the results in the paper: 
 
-* [**Saliency Prediction of Sports Videos: A Large-scale Database and a Self-Adaptive Approach.**](xxx)
+* [**Saliency Prediction of Sports Videos: A Large-scale Database and a Self-Adaptive Approach.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10446481)
 [*Minglang Qiao*](http://45.77.201.133/html/Members/minglangqiao.html),
 [*Mai Xu*](XX),
 [*Shijie Wen*](XX),
