@@ -32,6 +32,12 @@ python test_single_video.py --gpu 6 \
     --test_video_path "/xx/all_1000video/out_of_play_(2).mp4" \
     --save_path "/xx/model_output/" \
     --file_weight "/xx/VSTNet_pseudo_test.pth"
-
-
 ```
+
+The pre-trained model can be download from [Here](https://www.dropbox.com/scl/fi/y0b885yw5z89x9fhrmlha/VSTNet_pseudo_test.pth?rlkey=6bq275lrieuf1ruo1u6ri4kxm&st=um7rpxsk&dl=0).
+
+
+# Training Code
+
+TO BE UPDATE
+
