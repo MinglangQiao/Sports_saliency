@@ -15,7 +15,6 @@ This repository provides the database and code for reproducing the results in th
 Accepted by ICASSP 2024.
 
 
-
 # Database
 
 ![image](https://github.com/MinglangQiao/Sports_saliency/blob/main/%E8%AE%BA%E6%96%87%E7%89%88%E6%9C%AC.png)
@@ -27,4 +26,12 @@ please send me email (minglangqiao@buaa.edu.cn) to get the password of the downl
 
 # Test Code
 
-TO BE UPDATE
+```
+python test_single_video.py --gpu 6 \
+	--use_sound True --residual_fusion True \
+    --test_video_path "/xx/all_1000video/out_of_play_(2).mp4" \
+    --save_path "/xx/model_output/" \
+    --file_weight "/xx/VSTNet_pseudo_test.pth"
+
+
+```
